@@ -9,6 +9,8 @@ node_modules
 /prisma/dev.sqlite
 /prisma/dev.sqlite-journal
 database.sqlite
+/extensions/product-note-collection/dist
+/extensions/product-note-collection/locales
 
 .env
 package-lock.json

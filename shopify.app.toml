@@ -2,7 +2,7 @@
 
 client_id = "4dabc9c6ca8ce4889afbf55c5b8e6719"
 name = "product-notes"
-application_url = "https://ozone-result-helena-ty.trycloudflare.com"
+application_url = "https://murphy-mr-yields-percentage.trycloudflare.com"
 embedded = true
 
 [build]
@@ -16,9 +16,9 @@ scopes = "write_products"
 
 [auth]
 redirect_urls = [
-  "https://ozone-result-helena-ty.trycloudflare.com/auth/callback",
-  "https://ozone-result-helena-ty.trycloudflare.com/auth/shopify/callback",
-  "https://ozone-result-helena-ty.trycloudflare.com/api/auth/callback"
+  "https://murphy-mr-yields-percentage.trycloudflare.com/auth/callback",
+  "https://murphy-mr-yields-percentage.trycloudflare.com/auth/shopify/callback",
+  "https://murphy-mr-yields-percentage.trycloudflare.com/api/auth/callback"
 ]
 
 [webhooks]
